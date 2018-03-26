@@ -1,9 +1,5 @@
-package src;
 public class Person {
-		private int age = 10;
-		public Person() {
-			System.out.println("初始化年龄"+age);
-		}
-	}
-
-
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+    }
+}
