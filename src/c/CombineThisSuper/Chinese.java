@@ -1,4 +1,4 @@
-package UltimateOne;
+package c.CombineThisSuper;
 
 public class Chinese extends Person{
 	Chinese(){

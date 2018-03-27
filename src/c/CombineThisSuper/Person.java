@@ -1,4 +1,4 @@
-package UltimateOne;
+package c.CombineThisSuper;
 
 public class Person {
 	public static void prt(String s) {
