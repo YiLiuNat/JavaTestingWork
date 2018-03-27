@@ -1,5 +1,5 @@
 //https://www.cnblogs.com/hasse/p/5023392.html
-package a.ThisMethod;
+package _01.ThisMethod;
 class Person {
     private int age = 10;
     public Person(){

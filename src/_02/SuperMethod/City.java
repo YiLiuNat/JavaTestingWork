@@ -1,5 +1,5 @@
 //https://www.cnblogs.com/hasse/p/5023392.html
-package b.SuperMethod;
+package _02.SuperMethod;
 
 public class City extends Country{
 	String name;

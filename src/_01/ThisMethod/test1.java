@@ -1,5 +1,5 @@
 //https://www.cnblogs.com/hasse/p/5023392.html
-package a.ThisMethod;
+package _01.ThisMethod;
 public class test1 {
 	public static void main(String[] args) {
 		Person Harry = new Person();
