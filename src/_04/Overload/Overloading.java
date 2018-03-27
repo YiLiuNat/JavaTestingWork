@@ -25,7 +25,7 @@ public class Overloading {
 	
 	//执行内容
 	public static void main(String[] args) {
-		Overloading o = new Overloading();
+		Overloading o = new Overloading();//创建一个overloading对象
 		System.out.println(o.test());
 		o.test(1);
 		System.out.println(o.test(1,"test3"));
